@@ -1,3 +1,5 @@
 # Ignore all raw_images directories
 raw_images/
 **/raw_images/**
+
+**/.DS_Store

@@ -1,4 +1,4 @@
-# mprado271 Bud Learning
+# mprado271 - Bud Learning
 
 On this repo, I organize my books, papers and classes studies.
 
